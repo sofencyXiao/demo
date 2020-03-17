@@ -3,4 +3,7 @@ sofenocy
 sofency
 alice
 sasasa
+
 master>>said
+
+sofency>> write
